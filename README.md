@@ -9,7 +9,9 @@
 工場内を物理的な目印無しで移動し、製品を運ぶシステムです。位置推定には超音波を用いた三点測位を利用しています。
 
 ・経路登録システム
-走行経路をデータベースに登録するためのソフトウェアです。[![GitHub](https://img.shields.io/badge/GitHub-AGV_system-181717?logo=github&style=for-the-badge)](https://github.com/FujiiHirokl/AGV_system.git)
+走行経路をデータベースに登録するためのソフトウェアです。
+
+[![GitHub](https://img.shields.io/badge/GitHub-AGV_system-181717?logo=github&style=for-the-badge)](https://github.com/FujiiHirokl/AGV_system.git)
 
 
 
