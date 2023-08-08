@@ -14,7 +14,7 @@
 
 
 ### <p>👫Community</p>
-[jaws-kanazawa](https://jawsug-kanazawa.doorkeeper.jp/)
+<p>[jaws-kanazawa](https://jawsug-kanazawa.doorkeeper.jp/)</p>
 [DevelopersIO BASECAMP](https://propagate-tech.com/services/devcamp/getting-started)
 
 ### <p>🌟Use Tools</p>
