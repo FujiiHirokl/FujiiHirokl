@@ -10,7 +10,7 @@
 
 
 
-### 自動搬送車の走行ルートを設定するソフトウェア
+・自動搬送車の走行ルートを設定するソフトウェア
 [![GitHub](https://img.shields.io/badge/GitHub-経路登録システム-181717?logo=github&style=for-the-badge)](https://github.com/FujiiHirokl/AGV_system.git)
 
 
