@@ -15,7 +15,7 @@
   </a>
   <a href="https://github.com/FujiiHirokl/">
     <!-- ソースコード統計 -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujiiHirokl&layout=compact&theme=tokyonight" alt="Top used Langs" />
+    [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
   </a>
 </div>
 
