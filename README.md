@@ -22,7 +22,7 @@
 
 <p>🌟Status</p>
 
-<div align="center">
+<div>
   <a href="https://github.com/FujiiHirokl/">
     <!-- リポジトリステータス -->
     <img src="https://github-readme-stats.vercel.app/api?username=FujiiHirokl&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" alt="FujiiHirokl's github stats" />
