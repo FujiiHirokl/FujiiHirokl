@@ -8,7 +8,9 @@
 #### 無人搬送車システム
 ー工場内を物理的な目印無しで移動し、製品を運ぶシステムです。位置推定には超音波を用いた三点測位を利用しています。
 
- ・[経路登録システム](https://github.com/FujiiHirokl/AGV_system.git)
+ ・[経路登録用ソフトウェア](https://github.com/FujiiHirokl/AGV_system.git)
+ 
+ ・超音波位置推定計算ツール
 
 
 
