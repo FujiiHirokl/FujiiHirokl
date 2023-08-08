@@ -13,7 +13,7 @@
 
 
 ### <p>👫Community</p>
-
+[jaws-kanazawa](https://jawsug-kanazawa.doorkeeper.jp/)
 
 ### <p>🌟Use Tools</p>
 <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic"> <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic"> <img src="https://img.shields.io/badge/-Google%20cloud-4285F4.svg?logo=google-cloud&style=plastic">
