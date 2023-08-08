@@ -10,7 +10,7 @@
 
 ・経路登録システム
 
-[![GitHub](https://img.shields.io/badge/GitHub-AGV_system-181717?logo=github&style=for-the-badge)](https://github.com/FujiiHirokl/AGV_system.git)
+[![GitHub](https://img.shields.io/badge/GitHub-経路登録-181717?logo=github&style=for-the-badge)](https://github.com/FujiiHirokl/AGV_system.git)
 
 
 
