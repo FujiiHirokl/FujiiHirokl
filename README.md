@@ -14,8 +14,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-経路登録システム-181717?logo=github&style=for-the-badge)](https://github.com/FujiiHirokl/AGV_system.git)
 
 
-<h3 align="left">Twitterはこちら↓↓:</h3>
-<p align="left"> <a href= "https://twitter.com/nqru66lkcq1thok" target="blank"><img src="https://img.shields.io/twitter/follow/nqru66lkcq1thok?logo=twitter&style=for-the-badge" alt= "nqru66lkcq1thok" /></a> </p>
+
 
 
 
