@@ -1,8 +1,20 @@
 <h1 align="center">こんにちは 👋、私はフジイ ヒロキです</h1>
 <h3 align="center">cloudが大好きな大学生です</h3>
 
+## 開発中のプロジェクト
+
+こちらは私の開発中のプロジェクトのいくつかです。詳細については、各リポジトリのページをご覧ください。
+
+### プロジェクト名1
+
+[![GitHub](https://img.shields.io/github/license/YourUsername/Project1)](https://github.com/YourUsername/Project1)
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/Project1)](https://github.com/YourUsername/Project1)
+
+
 <h3 align="left">Twitterはこちら↓↓:</h3>
 <p align="left"> <a href= "https://twitter.com/nqru66lkcq1thok" target="blank"><img src="https://img.shields.io/twitter/follow/nqru66lkcq1thok?logo=twitter&style=for-the-badge" alt= "nqru66lkcq1thok" /></a> </p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
