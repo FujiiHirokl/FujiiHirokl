@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは 👋、私はフジイ ヒロキです</h1>
-<h3 align="center">日本出身の情熱的なフロントエンド開発者</h3>
+<h3 align="center">cloudが大好きな大学生です</h3>
 
 <h3 align="left">Twitterはこちら↓↓:</h3>
 <p align="left"> <a href= "https://twitter.com/nqru66lkcq1thok" target="blank"><img src="https://img.shields.io/twitter/follow/nqru66lkcq1thok?logo=twitter&style=for-the-badge" alt= "nqru66lkcq1thok" /></a> </p>
